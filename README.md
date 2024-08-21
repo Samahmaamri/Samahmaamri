@@ -2,12 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F724A9&duration=4000&lines=Hi+There!+👋;+I'm+Samah+Maamri!;Welcome+to+my+page!;" />
 </h1>
 
-
 <h1 align="center"> 💫 About Me : </h1>
 <br/>
-<br/> 
+<br/>
 <div >
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"  > 
 <p align="left" >I am a fresh graduate 👩‍🎓 with a deep passion for data science, machine learning, and deep learning. <br> My academic background has equipped me with a strong foundation in these areas, <br> and I am eager to continue learning and expanding my knowledge 👩‍💻 . <br>I am enthusiastic 😀 about exploring how data-driven techniques can solve real-world problems and am committed to developing my skills further in this rapidly evolving field.</p>
 
 </div>
