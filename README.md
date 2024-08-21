@@ -7,7 +7,7 @@
 <br/>
 <div >
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"  > 
-<p align="left" >I am a fresh graduate 👩‍🎓 with a deep passion for data science, machine learning, and deep learning. <br> My academic background has equipped me with a strong foundation in these areas, <br> and I am eager to continue learning and expanding my knowledge 👩‍💻 . <br>I am enthusiastic 😀 about exploring how data-driven techniques can solve real-world problems and am committed to developing my skills further in this rapidly evolving field.</p>
+<p align="left" ><h3>I am a fresh graduate 👩‍🎓 with a deep passion for data science, machine learning, and deep learning. <br> My academic background has equipped me with a strong foundation in these areas, <br> and I am eager to continue learning and expanding my knowledge 👩‍💻 . <br>I am enthusiastic 😀 about exploring how data-driven techniques can solve real-world problems and am committed to developing my skills further in this rapidly evolving field.</h3></p>
 
 </div>
 
