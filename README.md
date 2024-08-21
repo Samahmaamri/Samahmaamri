@@ -5,14 +5,25 @@
 
 <h2 align="center"> 💫 About Me : </h2>
 <br/>
-<div align="center">
-I am a fresh graduate 👩‍🎓 with a deep passion for data science, machine learning, and deep learning. <br> My academic background has equipped me with a strong foundation in these areas, <br> and I am eager to continue learning and expanding my knowledge 👩‍💻 . <br>I am enthusiastic 😀 about exploring how data-driven techniques can solve real-world problems and am committed to developing my skills further in this rapidly evolving field.
+<br/> 
+<div >
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left">I am a fresh graduate 👩‍🎓 with a deep passion for data science, machine learning, and deep learning. <br> My academic background has equipped me with a strong foundation in these areas, <br> and I am eager to continue learning and expanding my knowledge 👩‍💻 . <br>I am enthusiastic 😀 about exploring how data-driven techniques can solve real-world problems and am committed to developing my skills further in this rapidly evolving field.</p>
 
 </div>
 
+<br/>
+<br/>
+<br/> 
+<br/> 
+
 ## 🌐 Socials:
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sa._.ma._.h) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samah-maamri) 
+
+
+<br/> 
 
 # 💻 Tech Stack:
 
