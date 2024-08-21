@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I am data science 🧑‍💻<br><br>I am a fresh graduate 👩‍🎓 with a deep passion for data science, machine learning, and deep learning.<br> My academic background has equipped me with a strong foundation in these areas, and I am eager to continue learning and expanding my knowledge. <br>I am enthusiastic 😀 about exploring how data-driven techniques can solve real-world problems and am committed to developing my skills further in this rapidly evolving field.
+I am a fresh graduate 👩‍🎓 with a deep passion for data science, machine learning, and deep learning. <br> My academic background has equipped me with a strong foundation in these areas, and I am eager to continue learning and expanding my knowledge. <br>I am enthusiastic 😀 about exploring how data-driven techniques can solve real-world problems and am committed to developing my skills further in this rapidly evolving field.
 
 
 ## 🌐 Socials:
