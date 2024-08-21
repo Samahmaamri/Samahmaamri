@@ -7,6 +7,7 @@
 <br/>
 <div align="center">
 I am a fresh graduate 👩‍🎓 with a deep passion for data science, machine learning, and deep learning. <br> My academic background has equipped me with a strong foundation in these areas, <br> and I am eager to continue learning and expanding my knowledge 👩‍💻 . <br>I am enthusiastic 😀 about exploring how data-driven techniques can solve real-world problems and am committed to developing my skills further in this rapidly evolving field.
+
 </div>
 
 ## 🌐 Socials:
@@ -34,10 +35,10 @@ I am a fresh graduate 👩‍🎓 with a deep passion for data science, machine 
 <h2 align="center">⚡📊 GitHub Stats:⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
