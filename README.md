@@ -3,12 +3,12 @@
 </h1>
 
 
-<h2 align="center"> 💫 About Me : </h2>
+<h1 align="center"> 💫 About Me : </h1>
 <br/>
 <br/> 
 <div >
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left">I am a fresh graduate 👩‍🎓 with a deep passion for data science, machine learning, and deep learning. <br> My academic background has equipped me with a strong foundation in these areas, <br> and I am eager to continue learning and expanding my knowledge 👩‍💻 . <br>I am enthusiastic 😀 about exploring how data-driven techniques can solve real-world problems and am committed to developing my skills further in this rapidly evolving field.</p>
+<p align="left" >I am a fresh graduate 👩‍🎓 with a deep passion for data science, machine learning, and deep learning. <br> My academic background has equipped me with a strong foundation in these areas, <br> and I am eager to continue learning and expanding my knowledge 👩‍💻 . <br>I am enthusiastic 😀 about exploring how data-driven techniques can solve real-world problems and am committed to developing my skills further in this rapidly evolving field.</p>
 
 </div>
 
@@ -38,6 +38,7 @@
 <h2 align="center">⚡📊 GitHub Stats:⚡</h2>
 <br>
 <div align=center>
+ <img  width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Samahmaamri&&theme=radical" alt="streak stats" />
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Samahmaamri&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samahmaamri&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
